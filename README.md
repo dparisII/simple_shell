@@ -1,2 +1,2 @@
 0x16. C - Simple Shell
-by Bisrat and Dagmawi
+this is a team project by Bisrat and Dagmawi
